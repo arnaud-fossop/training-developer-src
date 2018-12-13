@@ -5,6 +5,6 @@ build/
 bin/
 obj/
 experiment/
-**/.settings/
-
-
+.project
+.classpath
+.settings/
